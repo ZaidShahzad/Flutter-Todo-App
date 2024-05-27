@@ -1,6 +1,6 @@
-# flutterbeginnerapp
+# Flutter Todo App
 
-A new Flutter project.
+A Todo App made in flutter for CSC305 at the University of Rhode Island
 
 ## Getting Started
 
